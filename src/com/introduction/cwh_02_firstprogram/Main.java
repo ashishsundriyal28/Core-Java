@@ -1,5 +1,5 @@
 // Little editing online
-package com.cwh_02_firstprogram;
+package com.introduction.cwh_02_firstprogram;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

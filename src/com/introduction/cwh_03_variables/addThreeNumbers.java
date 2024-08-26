@@ -1,4 +1,4 @@
-package com.cwh_03_variables;
+package com.introduction.cwh_03_variables;
 
 public class addThreeNumbers
 {

@@ -1,4 +1,4 @@
-package com.cwh_04_literals;
+package com.introduction.cwh_04_literals;
 
 public class CWH_04_literals
 {
