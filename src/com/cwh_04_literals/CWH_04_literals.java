@@ -1,4 +1,4 @@
-package com.literals;
+package com.cwh_04_literals;
 
 public class CWH_04_literals
 {
@@ -41,6 +41,5 @@ public class CWH_04_literals
         // Java convention = String literal is written in double-quotes
         String a = "Ashish";
         System.out.println("String Literal = " + a);
-
     }
 }
