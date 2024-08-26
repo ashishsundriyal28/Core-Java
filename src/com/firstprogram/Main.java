@@ -1,3 +1,4 @@
+// Little editing online
 package com.firstprogram;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
